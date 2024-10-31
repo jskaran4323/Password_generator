@@ -8,6 +8,7 @@ defmodule PasswordGenerator do
    "numbers"=>"false",
    "uppercase"=>"false",
    "symbols"=>"false"
+   
      }
      the options are only 4, `length`,`numbers`,`uppercase`,`symbols`
   """
